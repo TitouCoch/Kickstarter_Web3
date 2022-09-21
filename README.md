@@ -2,7 +2,9 @@
 
 To use my kickstarter web3 version :
 Install metamask!
-[Uploading assets_logo_metamask.jpeg…]()
+
+![assets_logo_metamask](https://user-images.githubusercontent.com/91782454/191546579-ae82b80a-d229-4c03-8809-104cd1c4e285.jpeg)
+
 
 Use an ethereum blockchain test :
 
